@@ -32,7 +32,7 @@ cd teknovest-nice_team
 npm install
 ```
 
--Setelah dependencies terinstal, jalankan server development dengan Vite menggunakan perintah:
+- Setelah dependencies terinstal, jalankan server development dengan Vite menggunakan perintah:
 
 ```bash
 npm run dev
