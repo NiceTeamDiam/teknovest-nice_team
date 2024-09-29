@@ -37,7 +37,7 @@ npm install
 ```bash
 npm run dev
 ```
-
+![Alt Text](./Lighthouse_fitoloka.png)
 
 - Untuk membuat versi produksi dari project ini, gunakan perintah berikut (opsional):
 
