@@ -37,7 +37,6 @@ npm install
 ```bash
 npm run dev
 ```
-![Alt Text](./Lighthouse_fitoloka.png)
 
 - Untuk membuat versi produksi dari project ini, gunakan perintah berikut (opsional):
 
@@ -45,10 +44,12 @@ npm run dev
 npm run build
 ```
 
-
-
 ## Link Hosting
 
 Kami menggunakan domain `netlify.app`
 
 Fito Loka - [fitoloka.netlify.app](https://fitoloka.netlify.app/)
+
+## Tangkapan Lighthouse dari kami
+
+![Alt Text](./Lighthouse_fitoloka.png)
